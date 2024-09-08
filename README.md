@@ -29,7 +29,21 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![GIF]()
+**Launch Screen and Sign up Demonstration**
+
+
+![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1lMWtvZHUzaHVsanY3OXRqM2kwd2g4MzgyNmxpcDR4eWd4eDgzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yDvzilUo5itU8RyN98/giphy.gif)
+
+**Post and Refresh Feed Demonstration**
+
+
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQwbDZhbm03dTA1eWU4dzlkNW16MXBiODV5NHN1aTBhNnQ5MmN2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hZP9bVmZobKPg7PZOi/giphy.gif)
+
+**Log Out and Persisted Log In Demonstration**
+
+
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIxYmhjeWl6MThidXQyYTB0YjdjajFhemczMjVienJ4N2k3bzl2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/svppHfIKzpVaV0lw5e/giphy.gif)
+
 
 ## Notes
 
