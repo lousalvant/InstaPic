@@ -29,10 +29,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-**Launch Screen and Sign up Demonstration**
+**Launch Screen Demonstration**
 
 
 ![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1lMWtvZHUzaHVsanY3OXRqM2kwd2g4MzgyNmxpcDR4eWd4eDgzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yDvzilUo5itU8RyN98/giphy.gif)
+
+**Sign up Demonstration**
+
+
+![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG92OWMyM3Nldmw1cGEzdjRlNXppbHNpaDdtNWFxa3ZldXl5N2RhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VAHQejsD8IwJ2u52dn/giphy.gif)
 
 **Login Demonstration**
 
