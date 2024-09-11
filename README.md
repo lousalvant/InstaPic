@@ -34,7 +34,17 @@ The following **additional** features are implemented:
 
 ![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1lMWtvZHUzaHVsanY3OXRqM2kwd2g4MzgyNmxpcDR4eWd4eDgzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yDvzilUo5itU8RyN98/giphy.gif)
 
-**Post and Refresh Feed Demonstration**
+**Login Demonstration**
+
+
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU0cTFyM2RldG9zZDdvY2dlb3FmMm1pbnhvbGc0bGUyZnlycHB1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pp4129EFZRJUfSXSq5/giphy.gif)
+
+**Refresh Feed Demonstration**
+
+
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZuOWFtMXhlMDNmaGMxbWJseHN1b3hyM3k3YTJudGloaWs5cGczeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zfBJBk9BKpT1HYG7n/giphy.gif)
+
+**Post Demonstration**
 
 
 ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQwbDZhbm03dTA1eWU4dzlkNW16MXBiODV5NHN1aTBhNnQ5MmN2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hZP9bVmZobKPg7PZOi/giphy.gif)
