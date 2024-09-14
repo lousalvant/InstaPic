@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 **Sign up Demonstration**
 
 
-![GIF](https://s7.ezgif.com/tmp/ezgif-7-0bb3d3cc6d.gif)
+![GIF](https://s7.ezgif.com/tmp/ezgif-7-54247267e9.gif)
 
 **Login Demonstration**
 
