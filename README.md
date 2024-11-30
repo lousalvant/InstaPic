@@ -1,3 +1,5 @@
+# Project 2 - *InstaPic*
+
 Submitted by: **Lou Salvant - Z23637852**
 
 **InstaPic** is an app that has similarities to the BeReal App. Users can post a photo from their library to the feed with an optional caption.
